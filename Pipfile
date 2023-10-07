@@ -9,6 +9,8 @@ h5py = "*"
 numpy = "*"
 pillow = "*"
 requests = "*"
+stl = "*"
+opencv-python = "*"
 
 [dev-packages]
 ipykernel = "*"
